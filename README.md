@@ -107,6 +107,7 @@ More details in [courses](courses.md)
 * [Regularization in Deep Learning](https://www.manning.com/books/regularization-in-deep-learning)
 * [Jax in Action](https://www.manning.com/books/jax-in-action)
 * [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)
+* [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms)
 
 More details in [books](books.md)
 
